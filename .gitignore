@@ -1,5 +1,6 @@
-._*
+_*
 .project
 .settings
 .vagrant*
 .idea
+.log

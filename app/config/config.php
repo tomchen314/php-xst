@@ -18,7 +18,7 @@ return new \Phalcon\Config(
             'charset'  => 'utf8',
         ),
         'application' => array(
-            'baseUri' => '/xst/',
+            'baseUri' => '/php-xst/',
             'defaultModule' => 'skeleton',
             'modules' => array(
                 array(
