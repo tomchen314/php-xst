@@ -18,5 +18,5 @@ class Module extends  ModuleBase {
      *
      * @var string
      */
-    protected $_baseUri = "/xst/";
+    protected $_baseUri = "/php-xst/";
 }
